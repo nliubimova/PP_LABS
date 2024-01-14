@@ -1,0 +1,11 @@
+Der Stadt ist Brno  Der HotelName ist Argentum Die Stern ist 3
+Der Stadt ist Dubai  Der HotelName ist Parus Die Stern ist 7
+Der Stadt ist Dubai  Der HotelName ist Novotel Die Stern ist 5
+Der Stadt ist Vilnius  Der HotelName ist HotelInn Die Stern ist 5
+Der Stadt ist Vilnius  Der HotelName ist Novotel Die Stern ist 4
+Die Hotels in der Stadt: 
+HotelInn 
+Novotel 
+Das Hotel lediegt in 
+Dubai
+Vilnius
