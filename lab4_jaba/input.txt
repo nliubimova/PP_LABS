@@ -1,0 +1,49 @@
+2
+42831120
+Vladimir
+Kadakov
+Olegovich
+2
+1
+3
+DY
+Radyno
+8
+Math
+Grekova
+4
+OS
+Kolb Oleg Olegovich
+8
+2
+2
+PP
+Pazura Ekaterina Vasilievna
+10
+Englisch
+Dudochka
+2
+32231120
+Nikita
+Froloh
+Sergeevich
+2
+1
+3
+DY
+Radyno
+10
+Math
+Grekova
+10
+OS
+Kolb Oleg Olegovich
+10
+2
+2
+PP
+Pazura Ekaterina Vasilievna
+10
+Englisch
+Dudochka
+10
